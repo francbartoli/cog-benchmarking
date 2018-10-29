@@ -11,6 +11,7 @@ dependencies:
   - nbserverproxy=0.8
   - jupyter=1.0
   - ipywidgets=7.4
+  - ipyleaflet=0.9.1
   - graphviz=2.38
   - jupyterlab=0.35
   - nodejs=8.12
